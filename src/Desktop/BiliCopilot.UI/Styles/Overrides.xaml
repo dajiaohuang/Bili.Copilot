@@ -341,7 +341,7 @@
         <Setter Property="BackgroundSizing" Value="InnerBorderEdge" />
         <Setter Property="Template">
             <Setter.Value>
-                <ControlTemplate TargetType="DropDownButton">
+                <ControlTemplate TargetType="Button">
                     <Grid
                         x:Name="RootGrid"
                         Padding="{TemplateBinding Padding}"
